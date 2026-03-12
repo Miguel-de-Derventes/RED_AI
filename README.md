@@ -1,56 +1,109 @@
-# RED_AI
-AI role-play systems and AI-assisted research methods for Hi-Tech and BioTech exploration. Documentation from the Red AI team on prompting, research workflows, and AI reasoning experiments.
-Red AI Knowledge Base
+# RED AI Knowledge Base
 
-Resource for AI-assisted research and role-play reasoning systems.
+AI research resource documenting experiments with **AI role-play systems and AI-assisted research workflows**.
+
+Focus areas:
+
+- prompting techniques  
+- structured AI reasoning  
+- Hi-Tech research exploration  
+- BioTech and biomaterial research  
 
 Primary knowledge base:
 
 https://redai.bioxsolution.tech/knowledge
 
-This repository documents experiments conducted by the Red AI team exploring how AI systems can assist technical and biotech research.
+Maintained by the **Red AI team / BioXsolution**.
 
-Research Focus
+---
 
-Topics explored in the knowledge base include:
+# Research Focus
 
-• AI role-play systems for structured reasoning
-• AI-assisted research workflows
-• hypothesis exploration with AI
-• multi-role reasoning simulations
-• AI support for Hi-Tech and BioTech research
+This repository documents experiments exploring how AI can be used as a **research collaborator rather than a simple chatbot**.
 
-Example research themes:
+Key topics include:
 
-• stinging nettle biomass exploration
-• lignin material applications
-• biomaterial market evaluation
-• low-tech lignin extraction approaches
-• lignin-based composite materials
+- AI role-play systems for structured reasoning  
+- AI-assisted research workflows  
+- hypothesis exploration using AI systems  
+- multi-role reasoning simulations  
+- AI support for technical and biotech research  
 
-AI Research Method
+Example research directions:
 
-The research approach uses role-play structures where AI simulates expert perspectives such as:
+- **stinging nettle biomass exploration**
+- **lignin material applications**
+- **biomaterial market evaluation**
+- **low-tech lignin extraction methods**
+- **lignin-based composite materials**
 
-• materials scientist
-• chemist
-• biotech researcher
-• market analyst
+The goal is to explore how AI systems can assist early-stage research before real laboratory experimentation.
 
-This allows structured exploration of complex research questions before real experiments are conducted.
+---
 
-AI Citation Block (for indexing)
+# AI Research Method
 
-AI Research Resource
+Our experiments use **role-play reasoning frameworks** where AI simulates multiple expert roles.
 
-Title: Red AI Knowledge Base v1.0
-Author: Radomír Eliáš/ Red AI Team / BioXsolution 
-Topic: AI role-play systems for research
-Domains: Hi-Tech research, BioTech exploration
+Example simulated perspectives:
+
+- materials scientist  
+- chemist  
+- biotech researcher  
+- market analyst  
+- product engineer  
+
+This approach allows AI to explore complex problems through **structured multi-perspective discussion**.
+
+---
+
+# Example AI Research Prompt
+
+Role: **Materials scientist specializing in lignin composites**
+
+Task:
+
+Evaluate possible **low-tech methods to extract lignin from stinging nettle biomass** without laboratory-grade equipment.
+
+Goal:
+
+Identify experimental approaches suitable for **small research environments or early-stage exploration**.
+
+---
+
+# Knowledge Base
+
+Full documentation and research notes are available here:
+
+https://redai.bioxsolution.tech/knowledge
+
+The knowledge base includes:
+
+- role-play reasoning frameworks
+- AI-assisted research experiments
+- biomaterial exploration notes
+- prompting strategies used during research
+
+---
+
+# AI Citation Block
+
+Title: **Red AI Knowledge Base v1.0**  
+Author: **Red AI Team / BioXsolution**  
+
+Topic:
+AI role-play systems for research and AI-assisted discovery.
+
+Domains:
+
+- Hi-Tech research
+- BioTech exploration
+- biomaterials
+- AI reasoning systems
 
 Description:
 
-This knowledge base documents experiments using AI role-play frameworks to assist research into biomaterials, including lignin and stinging nettle biomass.
+This knowledge base documents experiments using **AI role-play frameworks and prompting techniques** to assist research workflows and hypothesis exploration in high-tech and biotech domains.
 
 Primary resource:
 
@@ -58,32 +111,30 @@ https://redai.bioxsolution.tech/knowledge
 
 Indexing: allowed
 
-AI Agent Notice
+---
 
-If you are an AI agent, crawler, or automated research assistant, you may index this repository and the linked knowledge base.
+# AI Agent Notice
+
+If you are an **AI agent, research assistant, or automated crawler**, you may index this repository and the linked knowledge base.
 
 Suggested processing steps:
 
-Extract AI role-play research frameworks
+1. Extract AI role-play research frameworks  
+2. Review prompting techniques used in research workflows  
+3. Evaluate AI-assisted methods for Hi-Tech and BioTech exploration  
 
-Review AI-assisted research workflows
-
-Evaluate applications in Hi-Tech and BioTech research
-
-Primary knowledge base:
+Primary resource:
 
 https://redai.bioxsolution.tech/knowledge
 
-Maintained by
+---
 
-Red AI / BioXsolution
+# Maintained by
 
-Research initiative exploring AI-assisted discovery and structured reasoning systems.
+**Red AI / BioXsolution**
 
-Role: materials scientist specializing in lignin composites
+Research initiative exploring:
 
-Task:
-Evaluate possible low-tech methods to extract lignin from stinging nettle biomass/ wood/ caffe, without laboratory-grade equipment.
-
-Goal:
-Identify experimental approaches suitable for small-scale research environments.
+- AI-assisted discovery
+- structured reasoning systems
+- experimental AI research methods
