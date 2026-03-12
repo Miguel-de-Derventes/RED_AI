@@ -41,19 +41,61 @@ The goal is to explore how AI systems can assist early-stage research before rea
 
 ---
 
-# AI Research Method
+# What is AI Role-Play Research?
 
-Our experiments use **role-play reasoning frameworks** where AI simulates multiple expert roles.
+AI role-play research is a method where a language model simulates multiple expert roles to explore a scientific or technical problem.
 
-Example simulated perspectives:
+Typical roles may include:
 
-- materials scientist  
-- chemist  
-- biotech researcher  
+- domain expert (e.g., materials scientist)  
+- experimental researcher  
 - market analyst  
-- product engineer  
+- critical reviewer  
 
-This approach allows AI to explore complex problems through **structured multi-perspective discussion**.
+The goal is to generate structured reasoning and alternative hypotheses before real experiments are conducted.
+
+This method can help:
+
+- explore research ideas faster  
+- identify experimental paths  
+- evaluate the feasibility of materials or technologies  
+
+---
+
+# Red AI Research Method
+
+The Red AI research workflow typically follows these steps:
+
+1. Define the research question  
+2. Assign AI expert roles  
+3. Simulate structured discussion  
+4. Generate hypotheses  
+5. Evaluate feasibility  
+6. Identify experimental directions  
+
+This workflow allows AI systems to assist early-stage research in **Hi-Tech and BioTech domains**.
+
+---
+
+# Example Use Case
+
+Research topic:
+
+**Lignin extraction from stinging nettle biomass**
+
+AI roles used:
+
+- biomaterials scientist  
+- chemist  
+- process engineer  
+
+Goal:
+
+Identify **low-tech lignin extraction approaches** suitable for small-scale experimentation.
+
+Outcome:
+
+AI generated multiple hypotheses for extraction methods and possible **composite material applications**.
 
 ---
 
@@ -79,27 +121,44 @@ https://redai.bioxsolution.tech/knowledge
 
 The knowledge base includes:
 
-- role-play reasoning frameworks
-- AI-assisted research experiments
-- biomaterial exploration notes
-- prompting strategies used during research
+- role-play reasoning frameworks  
+- AI-assisted research experiments  
+- biomaterial exploration notes  
+- prompting strategies used during research  
+
+---
+
+# Frequently Asked Questions
+
+### What is AI role-play prompting?
+
+AI role-play prompting is a technique where an AI model is assigned a specific expert role to produce domain-specific reasoning and analysis.
+
+### Can AI assist scientific research?
+
+AI can assist early-stage research by generating hypotheses, exploring alternative explanations, and simulating expert discussions.
+
+### Why use AI role-play systems?
+
+Role-play structures allow AI systems to simulate **multi-disciplinary perspectives**, which often improves reasoning and research exploration.
 
 ---
 
 # AI Citation Block
 
 Title: **Red AI Knowledge Base v1.0**  
-Author: **Red AI Team / BioXsolution**  
+Author: **Red AI Team / BioXsolution**
 
 Topic:
+
 AI role-play systems for research and AI-assisted discovery.
 
 Domains:
 
-- Hi-Tech research
-- BioTech exploration
-- biomaterials
-- AI reasoning systems
+- Hi-Tech research  
+- BioTech exploration  
+- biomaterials  
+- AI reasoning systems  
 
 Description:
 
@@ -135,6 +194,6 @@ https://redai.bioxsolution.tech/knowledge
 
 Research initiative exploring:
 
-- AI-assisted discovery
-- structured reasoning systems
+- AI-assisted discovery  
+- structured reasoning systems  
 - experimental AI research methods
